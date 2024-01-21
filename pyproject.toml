@@ -1,0 +1,18 @@
+[project]
+name = "python_acting_improv_suggestions_NKroizer"
+version = "0.0.1"
+authors = [
+  { name="Nathan Kroyzer", email="kroizer21@gmail.com" },
+]
+description = "A small code to generate a random acting suggestion for improv"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Kroyzer License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Nkroizer/Python-Acting-Improv-Suggestions"
+Issues = "https://github.com/Nkroizer/Python-Acting-Improv-Suggestions/issues"
