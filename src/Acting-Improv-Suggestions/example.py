@@ -1,5 +1,5 @@
-from acting_improv_suggestion_generator import generate_improv_suggestion
+from acting_improv_suggestion_generator import generate_improv_suggestion, Actor
 
-your_name = "Nati"
-players = ["Manny", "David", "He"]
-print(generate_improv_suggestion(your_name, players))
+yourself = Actor("Nati", "He")
+players = ["Manny", "David", "Self"]
+print(generate_improv_suggestion(yourself, players))
