@@ -16,8 +16,6 @@ emotionDescriptors = [
     "Extremely",
 ]
 
-players = ["Manny", "David", "He"]
-
 conjunctions = ["Is", "Was", "Wants to Be", "Might Be"]
 
 verbs = [
