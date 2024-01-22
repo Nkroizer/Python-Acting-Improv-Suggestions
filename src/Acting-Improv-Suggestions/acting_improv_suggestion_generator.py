@@ -25,7 +25,9 @@ def generate_improv_suggestion(yourself: Actor, players: List[str]) -> str:
         charAction += " That " + yourself.pronoun
     else:
         charAction += " That " + random_person_to_interact_with
-    charAction += " " + random.choice(improv_data.conjunctions)
+
+    conjunction = random.choice(improv_data.conjunctions)
+    charAction += " " + conjunction
     charAction += " " + random.choice(improv_data.verbs)
     charAction += " A " + random.choice(improv_data.adjectives)
     selectedNoun = random.choice(improv_data.nouns)
