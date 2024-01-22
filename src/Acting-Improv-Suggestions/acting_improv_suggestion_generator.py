@@ -1,10 +1,12 @@
 import random
+import string
 import improv_data
 
 
-def generate_improv_suggestion():
+def generate_improv_suggestion(your_name: string):
     charAction = (
-        "Nati is "
+        your_name
+        + " is "
         + random.choice(improv_data.emotionDescriptors)
         + " "
         + random.choice(improv_data.emotions)
