@@ -12,17 +12,17 @@ class Actor:
         return f"{self.name}({self.pronoun})"
 
 
-def generate_improv_suggestion(yourself: Actor, players: List[str]) -> str:
-    random_person_to_interact_with = random.choice(players)
+def generate_improv_suggestion(main_actor: Actor, interactees: List[str]) -> str:
+    random_person_to_interact_with = random.choice(interactees)
     charAction = (
-        yourself.name
+        main_actor.name
         + " is "
         + random.choice(improv_data.emotionDescriptors)
         + " "
         + random.choice(improv_data.emotions)
     )
     if random_person_to_interact_with == "Self":
-        charAction += " That " + yourself.pronoun
+        charAction += " That " + main_actor.pronoun
     else:
         charAction += " That " + random_person_to_interact_with
 
