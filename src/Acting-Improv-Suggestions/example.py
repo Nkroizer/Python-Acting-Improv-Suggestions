@@ -1,13 +1,18 @@
 from acting_improv_suggestion_generator import generate_improv_suggestion, Actor
 from tkinter import *
-from tkinter import ttk
+from tkinter import ttk, messagebox
 
 root = Tk()
+root.geometry("500x500")
 main_actor = StringVar()
 interactee = StringVar()
 sex = IntVar()
 main_actor_obj = Actor("", "")
 interactees = []
+
+
+def on_click():
+    messagebox.showerror("Missing Info Error", "Make Sure that you fill all fields")
 
 
 def add_main_actor_name():
@@ -30,6 +35,13 @@ def generate():
         main_actor_obj.pronoun = "He"
     else:
         main_actor_obj.pronoun = "She"
+
+    if (
+        main_actor_obj.name == ""
+        or main_actor_obj.pronoun == ""
+        or len(interactees) < 1
+    ):
+        on_click()
     print(generate_improv_suggestion(main_actor_obj, interactees))
 
 
