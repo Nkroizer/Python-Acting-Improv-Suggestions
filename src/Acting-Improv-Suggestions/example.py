@@ -45,40 +45,46 @@ def generate():
     print(generate_improv_suggestion(main_actor_obj, interactees))
 
 
-frame = Frame(root)
-frame.pack()
-Label(frame, text="Name").grid(row=0, column=0)
+# ------------------Frame main actor------------------#
+frame_main_actor = Frame(root, background="lightgreen", padx=10, pady=10)
+frame_main_actor.pack()
+Label(frame_main_actor, text="Name", width=15).grid(row=0, column=0)
 e = Entry(
-    frame,
+    frame_main_actor,
     textvariable=main_actor,
     validate="focusout",
     validatecommand=add_main_actor_name,
 )
 e.grid(row=0, column=1)
 
-frame4 = Frame(root)
-frame4.pack()
-Radiobutton(frame4, text="Male", variable=sex, value=1).pack(anchor=W)
-Radiobutton(frame4, text="Female", variable=sex, value=2).pack(anchor=W)
+# ------------------Frame sex------------------#
+frame_sex = Frame(root, background="lightgreen", padx=10, pady=10)
+frame_sex.pack()
+Radiobutton(frame_sex, text="Male", width=15, variable=sex, value=1).pack(anchor=W)
+Radiobutton(frame_sex, text="Female", width=15, variable=sex, value=2).pack(anchor=W)
 
-# ------------------Frame 2------------------#
-frame2 = Frame(root)
-frame2.pack()
-Label(frame2, text="Add Another Player").grid(row=0, column=0)
-e = Entry(frame2, textvariable=interactee)
+# ------------------Frame other actors------------------#
+frame_other_actors = Frame(root, background="lightgreen", padx=10, pady=10)
+frame_other_actors.pack()
+Label(frame_other_actors, text="Add Another Player", width=15).grid(row=0, column=0)
+e = Entry(frame_other_actors, textvariable=interactee, width=15)
 e.grid(row=0, column=1)
-ttk.Button(frame2, text="Add Another", command=add_interactee).grid(row=1, column=0)
+ttk.Button(
+    frame_other_actors, text="Add Another", width=15, command=add_interactee
+).grid(row=1, column=0)
 
-
-frame_interactees_list = Frame(root)
+# ------------------Frame interactees_list------------------#
+frame_interactees_list = Frame(root, background="lightgreen", padx=10, pady=10)
 frame_interactees_list.pack()
 scrollbar = Scrollbar(frame_interactees_list)
 scrollbar.pack(side=RIGHT, fill=Y)
 mylist = Listbox(frame_interactees_list, yscrollcommand=scrollbar.set)
-# ------------------Frame 3------------------#
-frame3 = Frame(root)
-frame3.pack()
-ttk.Button(frame3, text="Generate", command=generate).grid(row=1, column=0)
 
+# ------------------Frame generate------------------#
+frame_generate = Frame(root, background="lightgreen", padx=10, pady=10)
+frame_generate.pack()
+ttk.Button(frame_generate, text="Generate", width=15, command=generate).grid(
+    row=1, column=0
+)
 
 root.mainloop()
