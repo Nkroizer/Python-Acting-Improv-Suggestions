@@ -30,7 +30,8 @@ def generate_improv_suggestion(main_actor: Actor, interactees: List[str]) -> str
     charAction += " " + conjunction
     incident = random.choice(improv_data.incidents)
     charAction += " " + incident
-    charAction += " A " + random.choice(improv_data.adjectives)
+    adjective = random.choice(improv_data.adjectives)
+    charAction += " A " + adjective
     selectedNoun = random.choice(improv_data.nouns)
     charAction += " " + selectedNoun
     if "Demon" in selectedNoun:
