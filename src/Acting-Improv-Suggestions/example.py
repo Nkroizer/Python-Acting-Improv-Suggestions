@@ -22,9 +22,9 @@ def add_main_actor_name():
 
 def add_interactee():
     interactees.append(interactee.get())
-    mylist.insert(END, interactee.get())
-    mylist.pack(side=LEFT, fill=BOTH)
-    scrollbar.config(command=mylist.yview)
+    other_actors_list.insert(END, interactee.get())
+    other_actors_list.pack(side=LEFT, fill=BOTH)
+    scrollbar.config(command=other_actors_list.yview)
     interactee.set("")
     return True
 
@@ -78,7 +78,7 @@ frame_interactees_list = Frame(root, background="lightgreen", padx=10, pady=10)
 frame_interactees_list.pack()
 scrollbar = Scrollbar(frame_interactees_list)
 scrollbar.pack(side=RIGHT, fill=Y)
-mylist = Listbox(frame_interactees_list, yscrollcommand=scrollbar.set)
+other_actors_list = Listbox(frame_interactees_list, yscrollcommand=scrollbar.set)
 
 # ------------------Frame generate------------------#
 frame_generate = Frame(root, background="lightgreen", padx=10, pady=10)

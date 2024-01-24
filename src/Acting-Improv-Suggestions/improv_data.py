@@ -18,7 +18,7 @@ emotionDescriptors = [
 
 conjunctions = ["Is", "Was", "Wants to Be", "Might Be"]
 
-verbs = [
+incidents = [
     "",
     "Secretly Possessed By",
     "Turning Into",

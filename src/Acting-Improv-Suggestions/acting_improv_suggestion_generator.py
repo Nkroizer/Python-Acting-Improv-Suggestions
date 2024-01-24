@@ -28,7 +28,8 @@ def generate_improv_suggestion(main_actor: Actor, interactees: List[str]) -> str
 
     conjunction = random.choice(improv_data.conjunctions)
     charAction += " " + conjunction
-    charAction += " " + random.choice(improv_data.verbs)
+    incident = random.choice(improv_data.incidents)
+    charAction += " " + incident
     charAction += " A " + random.choice(improv_data.adjectives)
     selectedNoun = random.choice(improv_data.nouns)
     charAction += " " + selectedNoun
