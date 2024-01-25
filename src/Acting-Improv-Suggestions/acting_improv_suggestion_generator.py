@@ -29,6 +29,9 @@ def generate_improv_suggestion(main_actor: Actor, interactees: List[str]) -> str
     conjunction = random.choice(improv_data.conjunctions)
     charAction += " " + conjunction
     incident = random.choice(improv_data.incidents)
+    if incident == "Possession":
+        # He or they are possessed by something, but by what?
+        charAction += " is possessed by "
     charAction += " " + incident
     adjective = random.choice(improv_data.adjectives)
     charAction += " A " + adjective
