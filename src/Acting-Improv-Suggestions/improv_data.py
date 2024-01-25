@@ -30,12 +30,14 @@ incidents = [
 PossessionTypes = [
     "Human",
     "Animal",
+    "Plant",
     "Entity",
     "Demon",
     "Ghost",
 ]
 
 humanTypes = [
+    "Worker"
     "Druid",
     "Wizard",
     "Member of The Shadow Government",
@@ -625,7 +627,6 @@ demons = [
     "Zaphan",
     "Zorzori",
 ]
-
 
 proffesions = [
     "Able Seamen",

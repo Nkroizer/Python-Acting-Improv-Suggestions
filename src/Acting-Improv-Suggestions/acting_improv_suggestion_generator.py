@@ -28,13 +28,22 @@ def generate_improv_suggestion(main_actor: Actor, interactees: List[str]) -> str
 
     conjunction = random.choice(improv_data.conjunctions)
     charAction += " " + conjunction
+    # Adjective
+    adjective = random.choice(improv_data.adjectives)
+    # The Incident
     incident = random.choice(improv_data.incidents)
     if incident == "Possession":
-        # He or they are possessed by something, but by what?
+        # They are possessed by something, but by what?
         charAction += " is possessed by "
+        PossessionType = random.choice(improv_data.PossessionTypes)
+        if PossessionType == "Human":
+            # They are possessed by a (living) human
+            humanType = random.choice(improv_data.humanTypes)
+            if humanType == "Worker":
+                # The Human that posses them is a worker
+                profession = random.choice(improv_data.proffesions)
+                charAction += " a " + adjective + " " + profession
     charAction += " " + incident
-    adjective = random.choice(improv_data.adjectives)
-    charAction += " A " + adjective
     selectedNoun = random.choice(improv_data.nouns)
     charAction += " " + selectedNoun
     if "Demon" in selectedNoun:
