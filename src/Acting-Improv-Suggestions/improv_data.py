@@ -628,7 +628,7 @@ demons = [
     "Zorzori",
 ]
 
-proffesions = [
+professions = [
     "Able Seamen",
     "Account Collector",
     "Accounting Specialist",
