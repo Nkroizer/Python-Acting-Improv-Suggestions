@@ -25,6 +25,7 @@ incidents = [
     "Love",
     "Deal",
     "Adventure",
+    "Orders",
 ]
 
 PossessionTypes = [
@@ -112,10 +113,8 @@ animalTypes = [
 ]
 
 plantTypes = [
-    "Avocado",
-    "Apple",
-    "Banana",
-    "Strawberry",
+    "Fruits",
+    "Vegetables",
     "Cactus",
     "Venus Fly Trap",
 ]

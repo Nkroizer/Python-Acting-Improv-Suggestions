@@ -48,8 +48,14 @@ def generate_improv_suggestion(main_actor: Actor, interactees: List[str]) -> str
             charAction += " a " + adjective + " " + animalType
         elif PossessionType == "Plant":
             plantType = random.choice(improv_data.plantTypes)
-            charAction += " a " + adjective + " " + plantType
-
+            if plantType == "Fruits":
+                fruit = random.choice(improv_data.fruits)
+                charAction += " a " + adjective + " " + fruit
+            elif plantType == "Vegetables":
+                vegetable = random.choice(improv_data.vegetables)
+                charAction += " a " + adjective + " " + vegetable
+            else:
+                charAction += " a " + adjective + " " + plantType
     charAction += " " + incident
     selectedNoun = random.choice(improv_data.nouns)
     charAction += " " + selectedNoun
