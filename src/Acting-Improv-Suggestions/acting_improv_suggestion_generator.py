@@ -56,6 +56,9 @@ def generate_improv_suggestion(main_actor: Actor, interactees: List[str]) -> str
                 charAction += " a " + adjective + " " + vegetable
             else:
                 charAction += " a " + adjective + " " + plantType
+        elif PossessionType == "Entity":
+            entityType = random.choice(improv_data.entityTypes)
+            charAction += " a " + adjective + " " + entityType
     charAction += " " + incident
     selectedNoun = random.choice(improv_data.nouns)
     charAction += " " + selectedNoun
