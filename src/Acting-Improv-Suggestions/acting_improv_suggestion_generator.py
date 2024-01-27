@@ -44,6 +44,7 @@ def generate_improv_suggestion(main_actor: Actor, interactees: List[str]) -> str
                 profession = random.choice(improv_data.professions)
                 charAction += " a " + adjective + " " + profession
         elif PossessionType == "Animal":
+            # They are possessed by an animal
             animalType = random.choice(improv_data.animalTypes)
             charAction += " a " + adjective + " " + animalType
         elif PossessionType == "Plant":
