@@ -59,6 +59,7 @@ def generate_improv_suggestion(main_actor: Actor, interactees: List[str]) -> str
             else:
                 charAction += " a " + adjective + " " + plantType
         elif PossessionType == "Entity":
+            # They are possessed by an Entity
             entityType = random.choice(improv_data.entityTypes)
             charAction += " a " + adjective + " " + entityType
         elif PossessionType == "Demon":
