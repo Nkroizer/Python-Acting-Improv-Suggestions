@@ -1,7 +1,7 @@
 from git import Repo
 import random
 
-PATH_OF_GIT_REPO = r"C:/Users/Rent\Documents/GitHub/Python-Acting-Improv-Suggestions/.git"  # make sure .git folder is properly configured
+PATH_OF_GIT_REPO = r"C:/Users/Rent/Documents/GitHub/Python-Acting-Improv-Suggestions/.git"  # make sure .git folder is properly configured
 COMMIT_MESSAGE = "comment from python script"
 random_comments = [
     "My wife told me to stop impersonating a flamingo. I had to put my foot down.",
@@ -110,8 +110,8 @@ random_comments = [
 def git_push():
     for i in range(4):
         print("pushing " + str(i+1) + " out of 4")
-        file1 = open("testOutput.py", "a")
-        file1.write("# " + random.choice(random_comments) + "\n")
+        file1 = open("C:/Users/Rent/Documents/GitHub/Python-Acting-Improv-Suggestions/src/Acting-Improv-Suggestions/testOutput.py", "a")
+        file1.write("# " + random.choice(random_comments) + "/n")
         file1.close()
         repo = Repo(PATH_OF_GIT_REPO)
         repo.git.add(update=True)
