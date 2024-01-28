@@ -108,14 +108,17 @@ random_comments = [
 
 
 def git_push():
-    file1 = open("testOutput.py", "a")
-    file1.write("# " + random.choice(random_comments) + "\n")
-    file1.close()
-    repo = Repo(PATH_OF_GIT_REPO)
-    repo.git.add(update=True)
-    repo.index.commit(COMMIT_MESSAGE)
-    origin = repo.remote(name="origin")
-    origin.push()
+    for i in range(4):
+        print("pushing " + str(i+1) + " out of 4")
+        file1 = open("testOutput.py", "a")
+        file1.write("# " + random.choice(random_comments) + "\n")
+        file1.close()
+        repo = Repo(PATH_OF_GIT_REPO)
+        repo.git.add(update=True)
+        repo.index.commit(COMMIT_MESSAGE)
+        origin = repo.remote(name="origin")
+        origin.push()
+    print("done")
 
 
 git_push()
