@@ -108,9 +108,13 @@ random_comments = [
 
 
 def git_push():
-    for i in range(4):
-        print("pushing " + str(i+1) + " out of 4")
-        file1 = open("C:/Users/Rent/Documents/GitHub/Python-Acting-Improv-Suggestions/src/Acting-Improv-Suggestions/testOutput.py", "a")
+    random_number_of_commits = random.randint(3, 7)
+    for i in range(random_number_of_commits):
+        print("pushing " + str(i + 1) + " out of " + str(random_number_of_commits))
+        file1 = open(
+            "C:/Users/Rent/Documents/GitHub/Python-Acting-Improv-Suggestions/src/Acting-Improv-Suggestions/testOutput.py",
+            "a",
+        )
         file1.write("# " + random.choice(random_comments) + "/n")
         file1.close()
         repo = Repo(PATH_OF_GIT_REPO)
