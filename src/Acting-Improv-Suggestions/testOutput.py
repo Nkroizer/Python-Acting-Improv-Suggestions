@@ -16,3 +16,4 @@
 # Will glass coffins be a success? Remains to be seen.# The problem isn't that obesity runs in your family. It's that no one runs in your family.
 # I told him to be himself; that was pretty mean, I guess.
 # The problem isn't that obesity runs in your family. It's that no one runs in your family.
+# I threw a boomerang a couple years ago; I know live in constant fear.
