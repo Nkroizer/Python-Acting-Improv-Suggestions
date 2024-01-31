@@ -20,3 +20,4 @@
 # I want to die peacefully in my sleep, like my grandfather… Not screaming and yelling like the passengers in his car.
 # A blind man walked into a bar… and a table… and a chair…
 # Light travels faster than sound, which is the reason that some people appear bright before you hear them speak.
+# Before you criticize someone, walk a mile in their shoes. That way, when you do criticize them, you're a mile away and you have their shoes.
