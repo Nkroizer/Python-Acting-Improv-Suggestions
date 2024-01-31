@@ -18,3 +18,4 @@
 # The problem isn't that obesity runs in your family. It's that no one runs in your family.
 # I threw a boomerang a couple years ago; I know live in constant fear.
 # I want to die peacefully in my sleep, like my grandfather… Not screaming and yelling like the passengers in his car.
+# A blind man walked into a bar… and a table… and a chair…
