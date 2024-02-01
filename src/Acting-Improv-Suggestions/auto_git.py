@@ -108,7 +108,7 @@ random_comments = [
 
 
 def git_push():
-    random_number_of_commits = random.randint(3, 7)
+    random_number_of_commits = random.randint(1, 3)
     for i in range(random_number_of_commits):
         print("pushing " + str(i + 1) + " out of " + str(random_number_of_commits))
         file1 = open(
