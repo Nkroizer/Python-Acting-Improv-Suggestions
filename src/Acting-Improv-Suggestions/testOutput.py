@@ -22,3 +22,4 @@
 # Light travels faster than sound, which is the reason that some people appear bright before you hear them speak.
 # Before you criticize someone, walk a mile in their shoes. That way, when you do criticize them, you're a mile away and you have their shoes.
 # I put my grandma on speed dial the other day. I call it insta-gram.
+# If you don't pay your exorcist, do you get repossessed?
