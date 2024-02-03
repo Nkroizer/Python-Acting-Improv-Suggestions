@@ -23,3 +23,4 @@
 # Before you criticize someone, walk a mile in their shoes. That way, when you do criticize them, you're a mile away and you have their shoes.
 # I put my grandma on speed dial the other day. I call it insta-gram.
 # If you don't pay your exorcist, do you get repossessed?
+# Pollen is what happens when flowers can't keep it in their plants.
