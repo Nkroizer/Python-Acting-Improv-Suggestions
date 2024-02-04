@@ -24,3 +24,4 @@
 # I put my grandma on speed dial the other day. I call it insta-gram.
 # If you don't pay your exorcist, do you get repossessed?
 # Pollen is what happens when flowers can't keep it in their plants.
+# What if there were no hypothetical questions?
