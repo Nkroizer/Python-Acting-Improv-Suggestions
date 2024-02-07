@@ -28,3 +28,4 @@
 # What's the difference between ignorance and apathy? I don't know and I don't care.
 # Pollen is what happens when flowers can't keep it in their plants.
 # People who take care of chickens are literally chicken tenders.
+# Will glass coffins be a success? Remains to be seen.
