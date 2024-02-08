@@ -31,3 +31,4 @@
 # Will glass coffins be a success? Remains to be seen.
 # I was addicted to the hokey pokey, but then I turned myself around.
 # I threw a boomerang a couple years ago; I know live in constant fear.
+# Despite the high cost of living, it remains popular.
