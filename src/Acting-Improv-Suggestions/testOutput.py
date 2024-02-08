@@ -32,3 +32,4 @@
 # I was addicted to the hokey pokey, but then I turned myself around.
 # I threw a boomerang a couple years ago; I know live in constant fear.
 # Despite the high cost of living, it remains popular.
+# 6:00 is the best time on a clock, hands down.
