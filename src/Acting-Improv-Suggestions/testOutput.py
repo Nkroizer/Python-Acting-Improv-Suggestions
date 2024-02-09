@@ -34,3 +34,4 @@
 # Despite the high cost of living, it remains popular.
 # 6:00 is the best time on a clock, hands down.
 # I know they say that money talks, but all mine says is 'Goodbye.'
+# I just got kicked out of a secret cooking society. I spilled the beans.
