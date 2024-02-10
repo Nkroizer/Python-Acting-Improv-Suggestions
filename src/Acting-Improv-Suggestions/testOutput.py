@@ -36,3 +36,4 @@
 # I know they say that money talks, but all mine says is 'Goodbye.'
 # I just got kicked out of a secret cooking society. I spilled the beans.
 # I bought the world's worst thesaurus yesterday. Not only is it terrible, it's also terrible.
+# Despite the high cost of living, it remains popular.
