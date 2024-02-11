@@ -40,3 +40,4 @@
 # The world champion tongue twister got arrested. I hear they're going to give him a tough sentence.
 # A termite walks into the bar and asks, 'Is the bar tender here?'
 # I have a few jokes about unemployed people, but none of them work.
+# My wife told me to stop impersonating a flamingo. I had to put my foot down.
