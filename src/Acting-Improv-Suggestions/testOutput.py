@@ -43,3 +43,4 @@
 # My wife told me to stop impersonating a flamingo. I had to put my foot down.
 # Geology rocks, but geography's where it's at.
 # If attacked by a mob of clowns, go for the juggler.
+# I was wondering why the frisbee kept getting bigger and bigger, but then it hit me.
