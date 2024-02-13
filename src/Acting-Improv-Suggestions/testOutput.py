@@ -45,3 +45,4 @@
 # If attacked by a mob of clowns, go for the juggler.
 # I was wondering why the frisbee kept getting bigger and bigger, but then it hit me.
 # When the cannibal showed up late to the buffet, they gave him the cold shoulder.
+# A dung beetle walks into a bar and asks, 'Is this stool taken?'
