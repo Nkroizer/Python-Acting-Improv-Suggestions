@@ -47,3 +47,4 @@
 # When the cannibal showed up late to the buffet, they gave him the cold shoulder.
 # A dung beetle walks into a bar and asks, 'Is this stool taken?'
 # What's a frog's favorite type of shoes? Open toad sandals.
+# I was addicted to the hokey pokey, but then I turned myself around.
