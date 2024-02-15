@@ -48,3 +48,4 @@
 # A dung beetle walks into a bar and asks, 'Is this stool taken?'
 # What's a frog's favorite type of shoes? Open toad sandals.
 # I was addicted to the hokey pokey, but then I turned myself around.
+# I heard there were a bunch of break-ins over at the car park. That is wrong on so many levels.
