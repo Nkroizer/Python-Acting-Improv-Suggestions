@@ -52,3 +52,4 @@
 # Atheism is a non-prophet organization.
 # I threw a boomerang a couple years ago; I know live in constant fear.
 # I just got kicked out of a secret cooking society. I spilled the beans.
+# I got a new pair of gloves today, but they're both 'lefts,' which on the one hand is great, but on the other, it's just not right.
