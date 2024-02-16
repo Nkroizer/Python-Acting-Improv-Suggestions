@@ -51,3 +51,4 @@
 # I heard there were a bunch of break-ins over at the car park. That is wrong on so many levels.
 # Atheism is a non-prophet organization.
 # I threw a boomerang a couple years ago; I know live in constant fear.
+# I just got kicked out of a secret cooking society. I spilled the beans.
