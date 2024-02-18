@@ -55,3 +55,4 @@
 # I got a new pair of gloves today, but they're both 'lefts,' which on the one hand is great, but on the other, it's just not right.
 # I threw a boomerang a couple years ago; I know live in constant fear.
 # When life gives you melons, you might be dyslexic.
+# I didn't think orthopedic shoes would help, but I stand corrected.
