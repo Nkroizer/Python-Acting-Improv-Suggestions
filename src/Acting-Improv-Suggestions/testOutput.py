@@ -58,3 +58,4 @@
 # I didn't think orthopedic shoes would help, but I stand corrected.
 # The rotation of Earth really makes my day.
 # Don't you hate it when someone answers their own questions? I do.
+# If a parsley farmer gets sued, can they garnish his wages?
