@@ -59,3 +59,4 @@
 # The rotation of Earth really makes my day.
 # Don't you hate it when someone answers their own questions? I do.
 # If a parsley farmer gets sued, can they garnish his wages?
+# Today a man knocked on my door and asked for a small donation toward the local swimming pool. I gave him a glass of water.
