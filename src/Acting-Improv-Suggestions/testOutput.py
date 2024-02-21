@@ -62,3 +62,4 @@
 # Today a man knocked on my door and asked for a small donation toward the local swimming pool. I gave him a glass of water.
 # I have a few jokes about unemployed people, but none of them work.
 # What's the difference between ignorance and apathy? I don't know and I don't care.
+# A termite walks into the bar and asks, 'Is the bar tender here?'
