@@ -63,3 +63,4 @@
 # I have a few jokes about unemployed people, but none of them work.
 # What's the difference between ignorance and apathy? I don't know and I don't care.
 # A termite walks into the bar and asks, 'Is the bar tender here?'
+# A ghost walked into a bar and ordered a shot of vodka. The bartender said, 'Sorry, we don't serve spirits here.'
