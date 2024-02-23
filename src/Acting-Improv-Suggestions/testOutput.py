@@ -66,3 +66,4 @@
 # A ghost walked into a bar and ordered a shot of vodka. The bartender said, 'Sorry, we don't serve spirits here.'
 # I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
 # It takes a lot of balls to golf the way I do.
+# I got a new pair of gloves today, but they're both 'lefts,' which on the one hand is great, but on the other, it's just not right.
