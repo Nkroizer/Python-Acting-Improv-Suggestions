@@ -67,3 +67,4 @@
 # I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
 # It takes a lot of balls to golf the way I do.
 # I got a new pair of gloves today, but they're both 'lefts,' which on the one hand is great, but on the other, it's just not right.
+# It was an emotional wedding. Even the cake was in tiers.
