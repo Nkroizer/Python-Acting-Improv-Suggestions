@@ -69,3 +69,4 @@
 # I got a new pair of gloves today, but they're both 'lefts,' which on the one hand is great, but on the other, it's just not right.
 # It was an emotional wedding. Even the cake was in tiers.
 # A dung beetle walks into a bar and asks, 'Is this stool taken?'
+# I heard there were a bunch of break-ins over at the car park. That is wrong on so many levels.
