@@ -71,3 +71,4 @@
 # A dung beetle walks into a bar and asks, 'Is this stool taken?'
 # I heard there were a bunch of break-ins over at the car park. That is wrong on so many levels.
 # One of the cows didn't produce milk today. It was an udder failure.
+# Will glass coffins be a success? Remains to be seen.
