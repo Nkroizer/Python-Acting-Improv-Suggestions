@@ -73,3 +73,4 @@
 # One of the cows didn't produce milk today. It was an udder failure.
 # Will glass coffins be a success? Remains to be seen.
 # I was addicted to the hokey pokey, but then I turned myself around.
+# Pollen is what happens when flowers can't keep it in their plants.
