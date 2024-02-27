@@ -75,3 +75,4 @@
 # I was addicted to the hokey pokey, but then I turned myself around.
 # Pollen is what happens when flowers can't keep it in their plants.
 # Two fish are in a tank. One says, 'How do you drive this thing?'
+# Most people are shocked when they find out how bad I am as an electrician.
