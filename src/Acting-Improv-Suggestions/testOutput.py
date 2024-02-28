@@ -79,3 +79,4 @@
 # A blind man walked into a bar… and a table… and a chair…
 # I didn't think orthopedic shoes would help, but I stand corrected.
 # I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
+# I want to die peacefully in my sleep, like my grandfather… Not screaming and yelling like the passengers in his car.
