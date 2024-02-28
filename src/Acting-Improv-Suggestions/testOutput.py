@@ -78,3 +78,4 @@
 # Most people are shocked when they find out how bad I am as an electrician.
 # A blind man walked into a bar… and a table… and a chair…
 # I didn't think orthopedic shoes would help, but I stand corrected.
+# I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
