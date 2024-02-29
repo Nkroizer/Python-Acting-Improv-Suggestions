@@ -82,3 +82,4 @@
 # I want to die peacefully in my sleep, like my grandfather… Not screaming and yelling like the passengers in his car.
 # The future, the present, and the past walk into a bar. Things got a little tense.
 # Have you heard about the new restaurant called 'Karma?' There's no menu—you get what you deserve.
+# It takes a lot of balls to golf the way I do.
