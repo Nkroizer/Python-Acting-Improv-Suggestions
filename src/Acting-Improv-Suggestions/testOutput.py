@@ -85,3 +85,4 @@
 # It takes a lot of balls to golf the way I do.
 # The problem isn't that obesity runs in your family. It's that no one runs in your family.
 # It takes a lot of balls to golf the way I do.
+# The world champion tongue twister got arrested. I hear they're going to give him a tough sentence.
