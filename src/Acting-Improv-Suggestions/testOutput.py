@@ -89,3 +89,4 @@
 # I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
 # If attacked by a mob of clowns, go for the juggler.
 # The problem isn't that obesity runs in your family. It's that no one runs in your family.
+# Two wifi engineers got married. The reception was fantastic.
