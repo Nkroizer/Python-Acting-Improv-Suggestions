@@ -90,3 +90,4 @@
 # If attacked by a mob of clowns, go for the juggler.
 # The problem isn't that obesity runs in your family. It's that no one runs in your family.
 # Two wifi engineers got married. The reception was fantastic.
+# Will glass coffins be a success? Remains to be seen.
