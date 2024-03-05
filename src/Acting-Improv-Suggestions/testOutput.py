@@ -92,3 +92,4 @@
 # Two wifi engineers got married. The reception was fantastic.
 # Will glass coffins be a success? Remains to be seen.
 # My friend's bakery burned down last night. Now his business is toast.
+# I didn't think orthopedic shoes would help, but I stand corrected.
