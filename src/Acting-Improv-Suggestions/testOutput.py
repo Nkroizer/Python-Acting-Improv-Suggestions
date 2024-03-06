@@ -95,3 +95,4 @@
 # I didn't think orthopedic shoes would help, but I stand corrected.
 # Atheism is a non-prophet organization.
 # I didn't think orthopedic shoes would help, but I stand corrected.
+# Adam & Eve were the first ones to ignore the Apple terms and conditions.
