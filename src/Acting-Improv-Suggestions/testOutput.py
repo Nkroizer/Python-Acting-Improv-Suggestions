@@ -96,3 +96,4 @@
 # Atheism is a non-prophet organization.
 # I didn't think orthopedic shoes would help, but I stand corrected.
 # Adam & Eve were the first ones to ignore the Apple terms and conditions.
+# I got a new pair of gloves today, but they're both 'lefts,' which on the one hand is great, but on the other, it's just not right.
