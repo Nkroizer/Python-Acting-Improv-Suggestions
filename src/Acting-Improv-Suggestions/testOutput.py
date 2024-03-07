@@ -98,3 +98,4 @@
 # Adam & Eve were the first ones to ignore the Apple terms and conditions.
 # I got a new pair of gloves today, but they're both 'lefts,' which on the one hand is great, but on the other, it's just not right.
 # I went to buy some camo pants but couldn't find any.
+# I put my grandma on speed dial the other day. I call it insta-gram.
