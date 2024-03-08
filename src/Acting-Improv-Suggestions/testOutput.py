@@ -100,3 +100,4 @@
 # I went to buy some camo pants but couldn't find any.
 # I put my grandma on speed dial the other day. I call it insta-gram.
 # My father has schizophrenia, but he's good people.
+# My wife just found out I replaced our bed with a trampoline. She hit the ceiling!
