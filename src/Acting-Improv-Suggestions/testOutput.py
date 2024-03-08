@@ -101,3 +101,4 @@
 # I put my grandma on speed dial the other day. I call it insta-gram.
 # My father has schizophrenia, but he's good people.
 # My wife just found out I replaced our bed with a trampoline. She hit the ceiling!
+# People who use selfie sticks really need to have a good, long look at themselves.
