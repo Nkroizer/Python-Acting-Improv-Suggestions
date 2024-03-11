@@ -106,3 +106,4 @@
 # I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
 # My friend's bakery burned down last night. Now his business is toast.
 # Two wifi engineers got married. The reception was fantastic.
+# Have you heard about the new restaurant called 'Karma?' There's no menu—you get what you deserve.
