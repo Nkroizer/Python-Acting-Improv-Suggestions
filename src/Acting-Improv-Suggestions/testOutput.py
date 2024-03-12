@@ -107,3 +107,4 @@
 # My friend's bakery burned down last night. Now his business is toast.
 # Two wifi engineers got married. The reception was fantastic.
 # Have you heard about the new restaurant called 'Karma?' There's no menu—you get what you deserve.
+# The man who invented Velcro has died. RIP.
