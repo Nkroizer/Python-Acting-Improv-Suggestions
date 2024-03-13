@@ -109,3 +109,4 @@
 # Have you heard about the new restaurant called 'Karma?' There's no menu—you get what you deserve.
 # The man who invented Velcro has died. RIP.
 # Adam & Eve were the first ones to ignore the Apple terms and conditions.
+# Adam & Eve were the first ones to ignore the Apple terms and conditions.
