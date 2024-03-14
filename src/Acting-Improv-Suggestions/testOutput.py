@@ -113,3 +113,8 @@
 # A dung beetle walks into a bar and asks, 'Is this stool taken?'
 # I have a few jokes about unemployed people, but none of them work.
 # One of the cows didn't produce milk today. It was an udder failure.
+# The man who invented knock-knock jokes should get a no bell prize.
+# I was wondering why the frisbee kept getting bigger and bigger, but then it hit me.
+# I didn't think orthopedic shoes would help, but I stand corrected.
+# Today a man knocked on my door and asked for a small donation toward the local swimming pool. I gave him a glass of water.
+# Adam & Eve were the first ones to ignore the Apple terms and conditions.
