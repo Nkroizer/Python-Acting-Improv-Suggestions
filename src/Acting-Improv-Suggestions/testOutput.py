@@ -112,3 +112,4 @@
 # Adam & Eve were the first ones to ignore the Apple terms and conditions.
 # A dung beetle walks into a bar and asks, 'Is this stool taken?'
 # I have a few jokes about unemployed people, but none of them work.
+# One of the cows didn't produce milk today. It was an udder failure.
