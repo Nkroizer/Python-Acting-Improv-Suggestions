@@ -118,3 +118,4 @@
 # I didn't think orthopedic shoes would help, but I stand corrected.
 # Today a man knocked on my door and asked for a small donation toward the local swimming pool. I gave him a glass of water.
 # Adam & Eve were the first ones to ignore the Apple terms and conditions.
+# Despite the high cost of living, it remains popular.
