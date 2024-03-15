@@ -122,3 +122,4 @@
 # Never trust atoms; they make up everything.
 # I saw a sign the other day that said, 'Watch for children,' and I thought, 'That sounds like a fair trade.'
 # I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
+# I used to have a handle on life, but then it broke.
