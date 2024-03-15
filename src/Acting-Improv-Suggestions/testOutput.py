@@ -126,3 +126,4 @@
 # The problem isn't that obesity runs in your family. It's that no one runs in your family.
 # Light travels faster than sound, which is the reason that some people appear bright before you hear them speak.
 # I used to think I was indecisive. But now I'm not so sure.
+# A dung beetle walks into a bar and asks, 'Is this stool taken?'
