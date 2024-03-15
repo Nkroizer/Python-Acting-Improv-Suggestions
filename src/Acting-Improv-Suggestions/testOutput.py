@@ -124,3 +124,4 @@
 # I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
 # I used to have a handle on life, but then it broke.
 # The problem isn't that obesity runs in your family. It's that no one runs in your family.
+# Light travels faster than sound, which is the reason that some people appear bright before you hear them speak.
