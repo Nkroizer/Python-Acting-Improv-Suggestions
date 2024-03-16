@@ -127,3 +127,16 @@
 # Light travels faster than sound, which is the reason that some people appear bright before you hear them speak.
 # I used to think I was indecisive. But now I'm not so sure.
 # A dung beetle walks into a bar and asks, 'Is this stool taken?'
+# If you don't pay your exorcist, do you get repossessed?
+# The man who invented Velcro has died. RIP.
+# My friend's bakery burned down last night. Now his business is toast.
+# A termite walks into the bar and asks, 'Is the bar tender here?'
+# I heard there were a bunch of break-ins over at the car park. That is wrong on so many levels.
+# Never trust atoms; they make up everything.
+# I threw a boomerang a couple years ago; I know live in constant fear.
+# Communist jokes aren't funny unless everyone gets them.
+# Communist jokes aren't funny unless everyone gets them.
+# Are people born with photographic memories, or does it take time to develop?
+# 6:00 is the best time on a clock, hands down.
+# The future, the present, and the past walk into a bar. Things got a little tense.
+# I saw a sign the other day that said, 'Watch for children,' and I thought, 'That sounds like a fair trade.'
