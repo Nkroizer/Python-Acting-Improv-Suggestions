@@ -144,3 +144,4 @@
 # Never trust atoms; they make up everything.
 # Russian dolls are so full of themselves.
 # A blind man walked into a bar… and a table… and a chair…
+# Just got fired from my job as a set designer. I left without making a scene.
