@@ -140,3 +140,4 @@
 # 6:00 is the best time on a clock, hands down.
 # The future, the present, and the past walk into a bar. Things got a little tense.
 # I saw a sign the other day that said, 'Watch for children,' and I thought, 'That sounds like a fair trade.'
+# My wife told me to stop impersonating a flamingo. I had to put my foot down.
