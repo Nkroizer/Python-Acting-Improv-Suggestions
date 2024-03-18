@@ -147,3 +147,6 @@
 # Just got fired from my job as a set designer. I left without making a scene.
 # I want to die peacefully in my sleep, like my grandfather… Not screaming and yelling like the passengers in his car.
 # I got a new pair of gloves today, but they're both 'lefts,' which on the one hand is great, but on the other, it's just not right.
+# A termite walks into the bar and asks, 'Is the bar tender here?'
+# I bought the world's worst thesaurus yesterday. Not only is it terrible, it's also terrible.
+# I was addicted to the hokey pokey, but then I turned myself around.
