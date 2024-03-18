@@ -150,3 +150,4 @@
 # A termite walks into the bar and asks, 'Is the bar tender here?'
 # I bought the world's worst thesaurus yesterday. Not only is it terrible, it's also terrible.
 # I was addicted to the hokey pokey, but then I turned myself around.
+# Geology rocks, but geography's where it's at.
