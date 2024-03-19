@@ -154,3 +154,4 @@
 # I just got kicked out of a secret cooking society. I spilled the beans.
 # Always borrow money from a pessimist. They'll never expect it back.
 # I was wondering why the frisbee kept getting bigger and bigger, but then it hit me.
+# The last thing I want to do is hurt you; but it's still on the list.
