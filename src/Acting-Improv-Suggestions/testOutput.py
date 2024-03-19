@@ -151,3 +151,6 @@
 # I bought the world's worst thesaurus yesterday. Not only is it terrible, it's also terrible.
 # I was addicted to the hokey pokey, but then I turned myself around.
 # Geology rocks, but geography's where it's at.
+# I just got kicked out of a secret cooking society. I spilled the beans.
+# Always borrow money from a pessimist. They'll never expect it back.
+# I was wondering why the frisbee kept getting bigger and bigger, but then it hit me.
