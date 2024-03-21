@@ -158,3 +158,4 @@
 # Blunt pencils are really pointless.
 # The problem isn't that obesity runs in your family. It's that no one runs in your family.
 # I was riding a donkey the other day when someone threw a rock at me and I fell off. I guess I was stoned off my ass.
+# I buy all my guns from a guy called T-Rex. He's a small arms dealer.
