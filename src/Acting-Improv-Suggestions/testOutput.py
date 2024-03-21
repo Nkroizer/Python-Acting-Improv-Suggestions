@@ -155,3 +155,6 @@
 # Always borrow money from a pessimist. They'll never expect it back.
 # I was wondering why the frisbee kept getting bigger and bigger, but then it hit me.
 # The last thing I want to do is hurt you; but it's still on the list.
+# Blunt pencils are really pointless.
+# The problem isn't that obesity runs in your family. It's that no one runs in your family.
+# I was riding a donkey the other day when someone threw a rock at me and I fell off. I guess I was stoned off my ass.
