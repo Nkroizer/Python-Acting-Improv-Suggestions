@@ -161,3 +161,4 @@
 # I buy all my guns from a guy called T-Rex. He's a small arms dealer.
 # Adam & Eve were the first ones to ignore the Apple terms and conditions.
 # A dung beetle walks into a bar and asks, 'Is this stool taken?'
+# Always borrow money from a pessimist. They'll never expect it back.
