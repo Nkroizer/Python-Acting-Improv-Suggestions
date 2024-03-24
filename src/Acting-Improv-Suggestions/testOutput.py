@@ -163,3 +163,4 @@
 # A dung beetle walks into a bar and asks, 'Is this stool taken?'
 # Always borrow money from a pessimist. They'll never expect it back.
 # Have you heard about the new restaurant called 'Karma?' There's no menu—you get what you deserve.
+# The easiest time to add insult to injury is when you're signing someone's cast.
