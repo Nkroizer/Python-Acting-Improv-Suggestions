@@ -164,3 +164,4 @@
 # Always borrow money from a pessimist. They'll never expect it back.
 # Have you heard about the new restaurant called 'Karma?' There's no menu—you get what you deserve.
 # The easiest time to add insult to injury is when you're signing someone's cast.
+# Don't you hate it when someone answers their own questions? I do.
