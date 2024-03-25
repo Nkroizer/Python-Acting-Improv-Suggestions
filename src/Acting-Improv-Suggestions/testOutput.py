@@ -168,3 +168,4 @@
 # When life gives you melons, you might be dyslexic.
 # If attacked by a mob of clowns, go for the juggler.
 # Four fonts walk into a bar. The bartender says, 'Hey! We don't want your type in here!'
+# The man who survived both mustard gas and pepper spray is a seasoned veteran now.
