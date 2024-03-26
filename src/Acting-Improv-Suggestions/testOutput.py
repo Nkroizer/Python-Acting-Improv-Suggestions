@@ -172,3 +172,4 @@
 # Fighting for peace is like screwing for virginity.
 # I heard there were a bunch of break-ins over at the car park. That is wrong on so many levels.
 # Fighting for peace is like screwing for virginity.
+# My wife just found out I replaced our bed with a trampoline. She hit the ceiling!
