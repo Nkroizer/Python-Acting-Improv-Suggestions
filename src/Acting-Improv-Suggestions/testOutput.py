@@ -174,3 +174,4 @@
 # Fighting for peace is like screwing for virginity.
 # My wife just found out I replaced our bed with a trampoline. She hit the ceiling!
 # Pollen is what happens when flowers can't keep it in their plants.
+# I went to a seafood disco last week, but ended up pulling a mussel.
