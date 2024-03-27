@@ -181,3 +181,4 @@
 # The problem with kleptomaniacs is that they always take things literally.
 # The world champion tongue twister got arrested. I hear they're going to give him a tough sentence.
 # Two fish are in a tank. One says, 'How do you drive this thing?'
+# Communist jokes aren't funny unless everyone gets them.
