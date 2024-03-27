@@ -177,3 +177,4 @@
 # I went to a seafood disco last week, but ended up pulling a mussel.
 # When life gives you melons, you might be dyslexic.
 # My teachers told me I'd never amount to much because I procrastinate so much. I told them, 'Just you wait!'
+# I can't believe I got fired from the calendar factory. All I did was take a day off.
