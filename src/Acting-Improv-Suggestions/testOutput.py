@@ -185,3 +185,4 @@
 # The man who invented Velcro has died. RIP.
 # My teachers told me I'd never amount to much because I procrastinate so much. I told them, 'Just you wait!'
 # A blind man walked into a bar… and a table… and a chair…
+# I was wondering why the frisbee kept getting bigger and bigger, but then it hit me.
