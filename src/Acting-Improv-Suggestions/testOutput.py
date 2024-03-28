@@ -183,3 +183,4 @@
 # Two fish are in a tank. One says, 'How do you drive this thing?'
 # Communist jokes aren't funny unless everyone gets them.
 # The man who invented Velcro has died. RIP.
+# My teachers told me I'd never amount to much because I procrastinate so much. I told them, 'Just you wait!'
