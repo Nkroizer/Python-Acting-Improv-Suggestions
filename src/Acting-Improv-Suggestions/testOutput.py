@@ -189,3 +189,4 @@
 # I can tell when people are being judgmental just by looking at them.
 # Blunt pencils are really pointless.
 # When life gives you melons, you might be dyslexic.
+# Refusing to go to the gym is a form of resistance training.
