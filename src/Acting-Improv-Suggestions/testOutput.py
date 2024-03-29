@@ -192,3 +192,4 @@
 # Refusing to go to the gym is a form of resistance training.
 # Will glass coffins be a success? Remains to be seen.
 # The world champion tongue twister got arrested. I hear they're going to give him a tough sentence.
+# I have a few jokes about unemployed people, but none of them work.
