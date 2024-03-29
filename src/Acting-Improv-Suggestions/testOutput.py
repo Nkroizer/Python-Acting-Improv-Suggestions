@@ -190,3 +190,4 @@
 # Blunt pencils are really pointless.
 # When life gives you melons, you might be dyslexic.
 # Refusing to go to the gym is a form of resistance training.
+# Will glass coffins be a success? Remains to be seen.
