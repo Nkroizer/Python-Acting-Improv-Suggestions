@@ -196,3 +196,4 @@
 # I used to think I was indecisive. But now I'm not so sure.
 # When the cannibal showed up late to the buffet, they gave him the cold shoulder.
 # My wife told me to stop impersonating a flamingo. I had to put my foot down.
+# People who use selfie sticks really need to have a good, long look at themselves.
