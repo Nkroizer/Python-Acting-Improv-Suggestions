@@ -199,3 +199,4 @@
 # People who use selfie sticks really need to have a good, long look at themselves.
 # I told him to be himself; that was pretty mean, I guess.
 # Never trust atoms; they make up everything.
+# I bought the world's worst thesaurus yesterday. Not only is it terrible, it's also terrible.
