@@ -201,3 +201,4 @@
 # Never trust atoms; they make up everything.
 # I bought the world's worst thesaurus yesterday. Not only is it terrible, it's also terrible.
 # I know they say that money talks, but all mine says is 'Goodbye.'
+# I just got kicked out of a secret cooking society. I spilled the beans.
