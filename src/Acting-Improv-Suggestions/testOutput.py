@@ -204,3 +204,4 @@
 # I just got kicked out of a secret cooking society. I spilled the beans.
 # What's the difference between ignorance and apathy? I don't know and I don't care.
 # I didn't think orthopedic shoes would help, but I stand corrected.
+# Communist jokes aren't funny unless everyone gets them.
