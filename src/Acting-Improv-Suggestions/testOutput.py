@@ -202,3 +202,4 @@
 # I bought the world's worst thesaurus yesterday. Not only is it terrible, it's also terrible.
 # I know they say that money talks, but all mine says is 'Goodbye.'
 # I just got kicked out of a secret cooking society. I spilled the beans.
+# What's the difference between ignorance and apathy? I don't know and I don't care.
