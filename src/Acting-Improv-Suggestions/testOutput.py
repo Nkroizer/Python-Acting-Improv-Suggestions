@@ -205,3 +205,4 @@
 # What's the difference between ignorance and apathy? I don't know and I don't care.
 # I didn't think orthopedic shoes would help, but I stand corrected.
 # Communist jokes aren't funny unless everyone gets them.
+# I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
