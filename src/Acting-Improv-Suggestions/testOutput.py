@@ -208,3 +208,4 @@
 # I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
 # My therapist says I have a preoccupation for revenge. We'll see about that.
 # Most people are shocked when they find out how bad I am as an electrician.
+# It was an emotional wedding. Even the cake was in tiers.
