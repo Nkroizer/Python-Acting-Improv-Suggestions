@@ -210,3 +210,4 @@
 # Most people are shocked when they find out how bad I am as an electrician.
 # It was an emotional wedding. Even the cake was in tiers.
 # My friend was explaining electricity to me, but I was like, 'Watt?'
+# Always borrow money from a pessimist. They'll never expect it back.
