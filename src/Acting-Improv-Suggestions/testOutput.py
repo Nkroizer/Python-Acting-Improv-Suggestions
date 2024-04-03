@@ -211,3 +211,4 @@
 # It was an emotional wedding. Even the cake was in tiers.
 # My friend was explaining electricity to me, but I was like, 'Watt?'
 # Always borrow money from a pessimist. They'll never expect it back.
+# A blind man walked into a bar… and a table… and a chair…
