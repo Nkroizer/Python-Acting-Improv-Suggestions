@@ -212,3 +212,4 @@
 # My friend was explaining electricity to me, but I was like, 'Watt?'
 # Always borrow money from a pessimist. They'll never expect it back.
 # A blind man walked into a bar… and a table… and a chair…
+# 'I have a split personality,' said Tom, being Frank.
