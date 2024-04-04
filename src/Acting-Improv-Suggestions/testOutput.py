@@ -213,3 +213,4 @@
 # Always borrow money from a pessimist. They'll never expect it back.
 # A blind man walked into a bar… and a table… and a chair…
 # 'I have a split personality,' said Tom, being Frank.
+# My teachers told me I'd never amount to much because I procrastinate so much. I told them, 'Just you wait!'
