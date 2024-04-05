@@ -216,3 +216,4 @@
 # My teachers told me I'd never amount to much because I procrastinate so much. I told them, 'Just you wait!'
 # Are people born with photographic memories, or does it take time to develop?
 # Blunt pencils are really pointless.
+# 6:00 is the best time on a clock, hands down.
