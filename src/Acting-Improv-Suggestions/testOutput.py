@@ -17,8 +17,8 @@
 # I told him to be himself; that was pretty mean, I guess.
 # The problem isn't that obesity runs in your family. It's that no one runs in your family.
 # I threw a boomerang a couple years ago; I know live in constant fear.
-# I want to die peacefully in my sleep, like my grandfather… Not screaming and yelling like the passengers in his car.
-# A blind man walked into a bar… and a table… and a chair…
+# I want to die peacefully in my sleep, like my grandfatherï¿½ Not screaming and yelling like the passengers in his car.
+# A blind man walked into a barï¿½ and a tableï¿½ and a chairï¿½
 # Light travels faster than sound, which is the reason that some people appear bright before you hear them speak.
 # Before you criticize someone, walk a mile in their shoes. That way, when you do criticize them, you're a mile away and you have their shoes.
 # I put my grandma on speed dial the other day. I call it insta-gram.
@@ -76,12 +76,12 @@
 # Pollen is what happens when flowers can't keep it in their plants.
 # Two fish are in a tank. One says, 'How do you drive this thing?'
 # Most people are shocked when they find out how bad I am as an electrician.
-# A blind man walked into a bar… and a table… and a chair…
+# A blind man walked into a barï¿½ and a tableï¿½ and a chairï¿½
 # I didn't think orthopedic shoes would help, but I stand corrected.
 # I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
-# I want to die peacefully in my sleep, like my grandfather… Not screaming and yelling like the passengers in his car.
+# I want to die peacefully in my sleep, like my grandfatherï¿½ Not screaming and yelling like the passengers in his car.
 # The future, the present, and the past walk into a bar. Things got a little tense.
-# Have you heard about the new restaurant called 'Karma?' There's no menu—you get what you deserve.
+# Have you heard about the new restaurant called 'Karma?' There's no menuï¿½you get what you deserve.
 # It takes a lot of balls to golf the way I do.
 # The problem isn't that obesity runs in your family. It's that no one runs in your family.
 # It takes a lot of balls to golf the way I do.
@@ -106,7 +106,7 @@
 # I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.
 # My friend's bakery burned down last night. Now his business is toast.
 # Two wifi engineers got married. The reception was fantastic.
-# Have you heard about the new restaurant called 'Karma?' There's no menu—you get what you deserve.
+# Have you heard about the new restaurant called 'Karma?' There's no menuï¿½you get what you deserve.
 # The man who invented Velcro has died. RIP.
 # Adam & Eve were the first ones to ignore the Apple terms and conditions.
 # Adam & Eve were the first ones to ignore the Apple terms and conditions.
@@ -143,9 +143,9 @@
 # My wife told me to stop impersonating a flamingo. I had to put my foot down.
 # Never trust atoms; they make up everything.
 # Russian dolls are so full of themselves.
-# A blind man walked into a bar… and a table… and a chair…
+# A blind man walked into a barï¿½ and a tableï¿½ and a chairï¿½
 # Just got fired from my job as a set designer. I left without making a scene.
-# I want to die peacefully in my sleep, like my grandfather… Not screaming and yelling like the passengers in his car.
+# I want to die peacefully in my sleep, like my grandfatherï¿½ Not screaming and yelling like the passengers in his car.
 # I got a new pair of gloves today, but they're both 'lefts,' which on the one hand is great, but on the other, it's just not right.
 # A termite walks into the bar and asks, 'Is the bar tender here?'
 # I bought the world's worst thesaurus yesterday. Not only is it terrible, it's also terrible.
@@ -162,7 +162,7 @@
 # Adam & Eve were the first ones to ignore the Apple terms and conditions.
 # A dung beetle walks into a bar and asks, 'Is this stool taken?'
 # Always borrow money from a pessimist. They'll never expect it back.
-# Have you heard about the new restaurant called 'Karma?' There's no menu—you get what you deserve.
+# Have you heard about the new restaurant called 'Karma?' There's no menuï¿½you get what you deserve.
 # The easiest time to add insult to injury is when you're signing someone's cast.
 # Don't you hate it when someone answers their own questions? I do.
 # When life gives you melons, you might be dyslexic.
@@ -184,7 +184,7 @@
 # Communist jokes aren't funny unless everyone gets them.
 # The man who invented Velcro has died. RIP.
 # My teachers told me I'd never amount to much because I procrastinate so much. I told them, 'Just you wait!'
-# A blind man walked into a bar… and a table… and a chair…
+# A blind man walked into a barï¿½ and a tableï¿½ and a chairï¿½
 # I was wondering why the frisbee kept getting bigger and bigger, but then it hit me.
 # I can tell when people are being judgmental just by looking at them.
 # Blunt pencils are really pointless.
@@ -211,11 +211,10 @@
 # It was an emotional wedding. Even the cake was in tiers.
 # My friend was explaining electricity to me, but I was like, 'Watt?'
 # Always borrow money from a pessimist. They'll never expect it back.
-# A blind man walked into a bar… and a table… and a chair…
+# A blind man walked into a barï¿½ and a tableï¿½ and a chairï¿½
 # 'I have a split personality,' said Tom, being Frank.
 # My teachers told me I'd never amount to much because I procrastinate so much. I told them, 'Just you wait!'
 # Are people born with photographic memories, or does it take time to develop?
 # Blunt pencils are really pointless.
 # 6:00 is the best time on a clock, hands down.
 # Always borrow money from a pessimist. They'll never expect it back.
-# Just got fired from my job as a set designer. I left without making a scene.
