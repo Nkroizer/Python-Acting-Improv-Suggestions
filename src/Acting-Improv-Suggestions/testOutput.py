@@ -218,3 +218,4 @@
 # Blunt pencils are really pointless.
 # 6:00 is the best time on a clock, hands down.
 # Always borrow money from a pessimist. They'll never expect it back.
+# Just got fired from my job as a set designer. I left without making a scene.
