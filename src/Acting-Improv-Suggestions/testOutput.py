@@ -217,3 +217,4 @@
 # Are people born with photographic memories, or does it take time to develop?
 # Blunt pencils are really pointless.
 # 6:00 is the best time on a clock, hands down.
+# Always borrow money from a pessimist. They'll never expect it back.
